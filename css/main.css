@@ -13,7 +13,7 @@ body {
 
 .italic {
     font-style: italic;
-    color: darkgray;
+    color: rgb(135, 135, 135);
 }
 .sometext {
     width: 66%;
@@ -29,6 +29,7 @@ body {
     background-color: rgb(181, 181, 181);
     height: auto;
     color: white;
+    font-weight: 400;
 }
 
 .projectthumbnail {
