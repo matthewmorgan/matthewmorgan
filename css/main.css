@@ -6,12 +6,14 @@ body {
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
+    width: 100%
+    height: 100%;
 }
 
 .banner {
     text-align: center;
     padding: 0.3em 1em .7em;
-    width: 80%;
+    width: 98%;
     background-color: darkgray;
     height: auto;
     color: white;
@@ -20,7 +22,7 @@ body {
 .big {
     padding-top: 1.2em;
     padding-bottom: 1em;
-    width: 80%;
+    width: 98%;
     height: auto;
     background-color: rgb(90, 90, 142);
 }
