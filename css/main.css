@@ -19,7 +19,6 @@ body {
     width: 66%;
     display: flex;
     flex-flow: column nowrap;
-    color: red;
     align-items: center;
 }
 .banner {
@@ -109,8 +108,6 @@ and (max-device-width: 568px)
 and (min-device-width : 768px)
 and (max-device-width : 1024px)  {
     .sometext {
-        font-size: 2em;
-        color: green;
         width: 100%;
 
     }
