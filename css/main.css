@@ -20,6 +20,7 @@ body {
 .banner {
     text-align: center;
     padding: 0.3em 1em .7em;
+    margin-bottom: 1em;
     width: 98%;
     background-color: darkgray;
     height: auto;
