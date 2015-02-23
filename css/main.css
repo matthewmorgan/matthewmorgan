@@ -49,4 +49,7 @@ and (orientation: portrait) {
     h3 {
         font-size: 2em;
     }
+    .item-list {
+        align-content: center;
+    }
 }
