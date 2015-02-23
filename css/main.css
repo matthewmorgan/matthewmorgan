@@ -80,4 +80,7 @@ and (max-device-width: 568px)
 
     }
 
+    .projectthumbnail {
+        padding-bottom: 1em;
+    }
 }
