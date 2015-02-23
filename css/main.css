@@ -10,6 +10,10 @@ body {
     height: 100%;
 }
 
+.sometext {
+    width: 66%;
+
+}
 .banner {
     text-align: center;
     padding: 0.3em 1em .7em;
@@ -54,5 +58,9 @@ and (max-device-width: 568px)
     }
     .item-list {
         align-item: initial;
+    }
+    .sometext {
+        font-size: 1.5em;
+        width: 80%
     }
 }
