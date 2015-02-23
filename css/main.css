@@ -30,6 +30,13 @@ body {
 .projectthumbnail {
     display: flex;
     justify-content: space-around;
+    margin-top: 2em;
+    border-bottom: 1px solid lightgray;
+
+}
+
+.nobottomborder {
+    border-bottom: none;
 }
 .big {
     padding-top: 1.2em;
@@ -72,4 +79,5 @@ and (max-device-width: 568px)
         width: 100%;
 
     }
+
 }
