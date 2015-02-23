@@ -50,6 +50,6 @@ and (orientation: portrait) {
         font-size: 2em;
     }
     .item-list {
-        align-content: center;
+        align-item: initial;
     }
 }
