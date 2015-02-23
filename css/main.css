@@ -3,6 +3,7 @@ html {
 }
 
 .banner {
+    padding: 1em 1em;
     width: 100%;
     background-color: darkgray;
     height: 50px;
