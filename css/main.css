@@ -37,8 +37,8 @@ and (min-device-width: 320px)
 and (max-device-width: 568px)
 and (orientation: portrait) {
     .banner {
-        width: 98%;
-        padding-left: -1em;
+        width: 100%;
+        padding-left: 0;
     }
     h1 {
         font-size: 4em;
