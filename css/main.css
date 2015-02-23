@@ -118,7 +118,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (orientation : portrait){
     .sometext {
-        font-size: 1.5em;
-        color:red;
+        font-size: 1.2em;
+        color:green;
     }
 }
