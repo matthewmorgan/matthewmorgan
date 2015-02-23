@@ -26,7 +26,7 @@ body {
     padding: 0.3em 1em .7em;
     margin-bottom: 1em;
     width: 98%;
-    background-color: darkgray;
+    background-color: rgb(181, 181, 181);
     height: auto;
     color: white;
 }
@@ -48,7 +48,7 @@ body {
     padding-bottom: 1em;
     width: 98%;
     height: auto;
-    background-color: rgb(60, 90, 140);
+    background-color: rgb(41, 72, 110);
 }
 
 .item-list {
