@@ -11,6 +11,10 @@ body {
     height: 100%;
 }
 
+.italic {
+    font-style: italic;
+    color: darkgray;
+}
 .sometext {
     width: 66%;
     display: flex;
