@@ -88,3 +88,18 @@ and (max-device-width: 568px)
         padding-bottom: 1em;
     }
 }
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+    and (orientation: portrait)
+{
+
+    .sometext {
+        font-size: 2em;
+        width: 100%;
+
+    }
+
+
+}
