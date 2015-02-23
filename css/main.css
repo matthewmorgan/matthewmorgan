@@ -41,6 +41,7 @@ body {
 
 .nobottomborder {
     border-bottom: none;
+    padding-bottom: 1em;
 }
 .big {
     padding-top: 1.2em;
