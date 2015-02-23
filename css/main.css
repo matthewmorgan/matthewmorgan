@@ -37,6 +37,6 @@ and (min-device-width: 320px)
 and (max-device-width: 568px)
 and (orientation: portrait) {
     .banner {
-        width: 100%;
+        width: 98%;
     }
 }
