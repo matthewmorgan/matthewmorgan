@@ -7,7 +7,7 @@ body {
     flex-flow: column nowrap;
     align-items: center;
     text-align:center;
-    width: 100%
+    width: 100%;
     height: 100%;
 }
 
@@ -16,6 +16,7 @@ h1, h2 {
 }
 .italic {
     font-style: italic;
+    font-weight: 300;
     color: rgb(135, 135, 135);
 }
 .sometext {
@@ -40,6 +41,7 @@ h1, h2 {
     justify-content: space-around;
     margin-top: 2em;
     border-bottom: 1px solid lightgray;
+    margin-bottom: 2em;
 
 }
 
